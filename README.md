@@ -10,4 +10,4 @@ I also developed a script to automate the schedule in the “Rector-College” p
 - 🌱 I’m currently learning neural networks
 - 📫 How to reach me: https://t.me/Diiev 
 - ⚡ Skills: HTML5/CSS3, GULP, WEBPACK, JS, PHP, Pyhton, MySQL, PostgreSQL
-- 
+
